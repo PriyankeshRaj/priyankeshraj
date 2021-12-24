@@ -11,6 +11,8 @@
 <p align="center">Currently pursuing Bachelor of Technology in Computer Science Engineering from Kalinga Institute of Industrial Technology, Bhubaneswar.  
 <br>I am a Backend developer specializing in Java, Selenium, Regex, and SQL😉. </p>
 <br>
+<br>
+<br>
 <!-- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=priyankeshraj&label=Profile%20views&color=0e75b6&style=flat" alt="priyankeshraj" /> </p>
 
@@ -27,6 +29,7 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1EtgsAEUxe9wKHnHqFoZztqoHc0AZeRRQ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny😂**
+<br>
 <br>
 <br>
 <br>
