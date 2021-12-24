@@ -19,19 +19,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/priyankeshraj" target="blank"><img src="https://img.icons8.com/ios/150/000000/codepen.png" alt="priyankeshraj" height="30" width="40" /></a>
-<a href="https://twitter.com/priyankeshraj" target="blank"><img src="https://img.icons8.com/color/144/000000/twitter.png" alt="priyankeshraj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priyankeshraj" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="priyankeshraj" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/priyankesh-raj" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="priyankesh-raj" height="30" width="40" /></a>
-<a href="https://kaggle.com/priyankeshraj" target="blank"><img src="https://img.icons8.com/windows/128/000000/kaggle.png" alt="priyankeshraj" height="30" width="40" /></a>
-<a href="https://fb.com/priyankesh raj" target="blank"><img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" alt="priyankesh raj" height="30" width="40" /></a>
-<a href="https://instagram.com/priyansh82" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="priyansh82" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/priyankeshraj" target="blank"><img src="https://img.icons8.com/color/144/000000/codechef.png" alt="priyankeshraj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/priyankeshraj" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="priyankeshraj" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/devildrago999" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="devildrago999" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyankeshraj" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="priyankeshraj" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@priyankeshraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@priyankeshraj" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/priyankeshraj" target="blank"><img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" alt="priyankeshraj" height="30" width="40" /></a>
+<a href="https://codepen.io/priyankeshraj" target="blank"><img src="https://img.icons8.com/ios/150/000000/codepen.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="https://twitter.com/priyankeshraj" target="blank"><img src="https://img.icons8.com/color/144/000000/twitter.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/priyankeshraj" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/priyankesh-raj" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="priyankesh-raj" height="40" width="40" /></a>
+<a href="https://kaggle.com/priyankeshraj" target="blank"><img src="https://img.icons8.com/windows/128/000000/kaggle.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="https://fb.com/priyankesh raj" target="blank"><img src="https://img.icons8.com/fluency/144/000000/facebook-new.png" alt="priyankesh raj" height="40" width="40" /></a>
+<a href="https://instagram.com/priyansh82" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="priyansh82" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/priyankeshraj" target="blank"><img src="https://img.icons8.com/color/144/000000/codechef.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/priyankeshraj" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/devildrago999" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="devildrago999" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/priyankeshraj" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="priyankeshraj" height="40" width="40" /></a>
+<a href="https://www.hackerearth.com/@priyankeshraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@priyankeshraj" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/priyankeshraj" target="blank"><img src="https://img.icons8.com/color/144/000000/GeeksforGeeks.png" alt="priyankeshraj" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
