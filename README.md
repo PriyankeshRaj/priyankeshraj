@@ -12,7 +12,6 @@
 <br>I am a Backend developer specializing in Java, Selenium, Regex, and SQL😉. </p>
 <br>
 <br>
-<br>
 <!-- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=priyankeshraj&label=Profile%20views&color=0e75b6&style=flat" alt="priyankeshraj" /> </p>
 
