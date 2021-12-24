@@ -3,8 +3,9 @@
 <h1 align="center">I'm Priyankesh Raj👨‍🎤</h1>
 <h3 align="center">A Passionate Backend Software Developer from India</h3>
 <h3 align="center"><i><b> 🌈On a beautiful journey of becoming a better Backend Developer☄️</b></i></h3>
-Currently pursuing Bachelor of Technology in Computer Science Engineering from Kalinga Institute of Industrial Technology, Bhubaneswar.  
-<br>I am a Backend developer specializing in Java, Selenium, Regex, and SQL😉. 
+<p align="center">Currently pursuing Bachelor of Technology in Computer Science Engineering from Kalinga Institute of Industrial Technology, Bhubaneswar.  
+<br>I am a Backend developer specializing in Java, Selenium, Regex, and SQL😉. </p>
+<br>
 <!-- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=priyankeshraj&label=Profile%20views&color=0e75b6&style=flat" alt="priyankeshraj" /> </p>
 
