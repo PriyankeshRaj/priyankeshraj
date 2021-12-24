@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **priyankeshraj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qfFNUwHY-UG_SDTeGd8cGBZwsj6ExIwM/view?usp=sharing](https://drive.google.com/file/d/1qfFNUwHY-UG_SDTeGd8cGBZwsj6ExIwM/view?usp=sharing)
+- 📄 Know about my experiences [My Resyme](https://drive.google.com/file/d/1EtgsAEUxe9wKHnHqFoZztqoHc0AZeRRQ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny😂**
 
