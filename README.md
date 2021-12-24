@@ -1,18 +1,18 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hola, Geeks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
 
-<h3 align="center"><i><b> 🌈On a beautiful journey of becoming a better Backend Developer☄️</b></i></h3>
-
 <h1 align="center">Hi 👋, I'm Priyankesh Raj 👾</h1>
 <h3 align="center">A Passionate Backend Software Developer from India</h3>
-Currently pursuing Bachelor of Technology in Computer Science from Kalinga Institute of Industrial Technology, Bhubaneswar.  I am a Backend developer specializing in Java, Selenium, Regex, and SQL😉. I'm currently focusing on learning Java and its Frameworks📊.
-
+<h3 align="center"><i><b> 🌈On a beautiful journey of becoming a better Backend Developer☄️</b></i></h3>
+Currently pursuing Bachelor of Technology in Computer Science Engineering from Kalinga Institute of Industrial Technology, Bhubaneswar.  
+I am a Backend developer specializing in Java, Selenium, Regex, and SQL😉. 
+<!-- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=priyankeshraj&label=Profile%20views&color=0e75b6&style=flat" alt="priyankeshraj" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankeshraj" alt="priyankeshraj" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/priyankeshraj" target="blank"><img src="https://img.shields.io/twitter/follow/priyankeshraj?logo=twitter&style=for-the-badge" alt="priyankeshraj" /></a> </p>
+<p align="center"> <a href="https://twitter.com/priyankeshraj" target="blank"><img src="https://img.shields.io/twitter/follow/priyankeshraj?logo=twitter&style=for-the-badge" alt="priyankeshraj" /></a> </p> -->
 
-- 🌱 I’m currently learning **Java and different framerworks**
+- 🌱 I’m currently learning **Java and its different framerworks📊**
 
 - 💬 Ask me about **Java, Selenium, Regex, SQL, Python, C++, C**
 
