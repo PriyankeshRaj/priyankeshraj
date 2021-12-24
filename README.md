@@ -3,6 +3,11 @@
 <h1 align="center">I'm Priyankesh Raj👨‍🎤</h1>
 <h3 align="center">A Passionate Backend Software Developer from India</h3>
 <h3 align="center"><i><b> 🌈On a beautiful journey of becoming a better Backend Developer☄️</b></i></h3>
+<p align="center">
+<a href="https://linkedin.com/in/priyankeshraj"><img src="https://img.shields.io/badge/-Priyankesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/priyankeshraj/"></a>
+<a href="https://github.com/PriyankeshRaj"><img src="https://img.shields.io/github/followers/PriyankeshRaj?label=follow&style=social"></a>
+<a href="https://github.com/PriyankeshRaj"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-Priyankesh-orange"></a>
+</p>
 <p align="center">Currently pursuing Bachelor of Technology in Computer Science Engineering from Kalinga Institute of Industrial Technology, Bhubaneswar.  
 <br>I am a Backend developer specializing in Java, Selenium, Regex, and SQL😉. </p>
 <br>
